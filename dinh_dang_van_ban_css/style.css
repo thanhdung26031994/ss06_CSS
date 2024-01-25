@@ -1,0 +1,23 @@
+
+div {
+    text-indent: 30px;
+}
+
+body {
+    text-align: justify;
+}
+
+.element1 {
+    font-weight: bold;
+}
+.element2 {
+    color: aqua;
+}
+.element3 {
+    color: rgb(102, 0, 255);
+}
+.element4 {
+    vertical-align: super;
+    font-size: 10px;
+    color: blue;
+}
